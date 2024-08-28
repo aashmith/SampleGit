@@ -1,18 +1,5 @@
-<<<<<<< Updated upstream
 In a quiet town, a stray cat found a young girl's lost teddy bear.
- She returned it, and they became best friends. 
+She returned it, and they became best friends. 
 The girl’s joy inspired the townsfolk to help others in need. 
 The cat, once alone, now lived surrounded by warmth and kindness.
- A simple act of kindness changed everything.
-<<<<<<< HEAD
-Hello Everyone
-=======
-
-In a quiet town, a stray cat found a young girl's lost teddy bear.
- She returned it, and they became best friends. 
-The girl’s joy inspired the townsfolk to help others in need. 
-The cat, once alone, now lived surrounded by warmth and kindness.
- A simple act of kindness changed everything.
-=======
-In a quiet town, a stray cat found a young girl's lost teddy bear. She returned it, and they became best friends. The girl’s joy inspired the townsfolk to help others in need. The cat, once alone, now lived surrounded by warmth and kindness. A simple act of kindness changed everything.
->>>>>>> Stashed changes
+A simple act of kindness changed everything.
