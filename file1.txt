@@ -3,11 +3,7 @@ core.editor="C:/Program Files (x86)/GitExtensions/GitExtensions.exe" fileeditor
 user.name=aashish shivhare
 $ git config --global --list
 core.editor="C:/Program Files (x86)/GitExtensions/GitExtensions.exe" fileeditor
-user.name=aashish shivhare
-$ git config --global --list
-core.editor="C:/Program Files (x86)/GitExtensions/GitExtensions.exe" fileeditor
-user.name=aashish shivhare
-$ git config --global --list
+user.name=aashish 
 core.editor="C:/Program Files (x86)/GitExtensions/GitExtensions.exe" fileeditor
 user.name=aashish shivhare
 
