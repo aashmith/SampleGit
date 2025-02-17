@@ -1,0 +1,3 @@
+[submodule "tree/main/python"]
+	path = tree/main/python
+	url = https://github.com/aashmith/TstingSubModules.git
