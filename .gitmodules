@@ -1,3 +1,6 @@
 [submodule "tree/main/python"]
 	path = tree/main/python
 	url = https://github.com/aashmith/TstingSubModules.git
+[submodule "python"]
+	path = python
+	url = https://github.com/aashmith/TstingSubModules.git
